@@ -295,10 +295,10 @@
     js-base64 "^3.7.2"
     ramda "^0.28.0"
 
-"@devprotocol/hashi@^0.1.2":
-  version "0.1.4"
-  resolved "https://registry.yarnpkg.com/@devprotocol/hashi/-/hashi-0.1.4.tgz#5d8b7a506a0f6c184034741256825b7ebdcb0d3a"
-  integrity sha512-IkxPfMGPREZCF19RG+lpUrRRF/vG5hmkkKGXKsxo7m9qulQ3t24Ut3vGYU3zfly45QaX1IgeRAOQM3VHlC0CDg==
+"@devprotocol/hashi@^0.2.0":
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/@devprotocol/hashi/-/hashi-0.2.0.tgz#5e396e67308d26dd3ad2e823eb34c7e30452a3e5"
+  integrity sha512-Bz0P2RVuNeuMKPxHJJ3hrs94XclAgOZ07EWd2Dsp3B/OLA3PPFYDyz3KNHKGdRo7QV53FX/zgTI/2wVbIa8z1w==
   dependencies:
     "@matteusan/sentro" "0.1.20"
 
