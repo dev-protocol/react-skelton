@@ -295,12 +295,12 @@
     js-base64 "^3.7.2"
     ramda "^0.28.0"
 
-"@devprotocol/hashi@^0.1.2":
-  version "0.1.4"
-  resolved "https://registry.yarnpkg.com/@devprotocol/hashi/-/hashi-0.1.4.tgz#5d8b7a506a0f6c184034741256825b7ebdcb0d3a"
-  integrity sha512-IkxPfMGPREZCF19RG+lpUrRRF/vG5hmkkKGXKsxo7m9qulQ3t24Ut3vGYU3zfly45QaX1IgeRAOQM3VHlC0CDg==
+"@devprotocol/hashi@^1.0.0":
+  version "1.5.1"
+  resolved "https://registry.yarnpkg.com/@devprotocol/hashi/-/hashi-1.5.1.tgz#3640da6743dc893c44b0fabee90f13f2d5b6c362"
+  integrity sha512-uczqXwvCh/DWV/Fj5yxXwCufzZtQM597WOh6C2rhQEILXQdu8dHXF2w/Q+5MoTlyv4pXK44zS654xvXEfjwblw==
   dependencies:
-    "@matteusan/sentro" "0.1.20"
+    "@matteusan/sentro" "0.1.25"
 
 "@devprotocol/khaos-core@1.6.0", "@devprotocol/khaos-core@^1.6.0":
   version "1.6.0"
@@ -875,10 +875,10 @@
     "@jridgewell/resolve-uri" "^3.0.3"
     sourcemap-codec "1.4.8"
 
-"@matteusan/sentro@0.1.20":
-  version "0.1.20"
-  resolved "https://registry.yarnpkg.com/@matteusan/sentro/-/sentro-0.1.20.tgz#edbd1e335c5662c08a1898dc07d8742d02124d85"
-  integrity sha512-7pqB45X1SFy/sdlIABf1ShVw+BQRXLAe/+VYRQh0pcEUAWgtghoA9DAu5q7PexK4q+azuotHuP0cGhzoFqlV0w==
+"@matteusan/sentro@0.1.25":
+  version "0.1.25"
+  resolved "https://registry.yarnpkg.com/@matteusan/sentro/-/sentro-0.1.25.tgz#626f8795ada5f31a746acad80c4c49cc6134d879"
+  integrity sha512-WADroUoOEnbGBij9ZSJkGbYp2yiNVi6UJZymJsSVyo1zuekM1pIzKF8+nI31SGt5wS3ChmOOR5+w1Z7c6jg9TQ==
 
 "@metamask/detect-provider@^1.2.0":
   version "1.2.0"
