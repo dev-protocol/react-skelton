@@ -13,7 +13,7 @@
     "@devprotocol/dev-kit": "^5.12.0",
     "@devprotocol/hashi": "^0.1.2",
     "@devprotocol/khaos-kit": "^1.4.0",
-    "@devprotocol/util-ts": "^2.2.1",
+    "@devprotocol/util-ts": "^3.0.0",
     "@metamask/detect-provider": "^1.2.0",
     "@walletconnect/web3-provider": "^1.7.1",
     "browserify-zlib": "^0.2.0",
